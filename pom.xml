@@ -29,14 +29,6 @@
     </snapshotRepository>
 </distributionManagement>
   
-
-<modules>
- <module>sub</module>
- <module>add</module>
-</modules>
-
-
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
